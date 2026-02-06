@@ -1,0 +1,4 @@
+<!-- Icon placeholder: 1024x1024 PNG icon needed -->
+<!-- Replace this file with your actual icon.png (1024x1024) -->
+<!-- This is a placeholder comment file -->
+Create a 1024x1024 PNG image for the app icon

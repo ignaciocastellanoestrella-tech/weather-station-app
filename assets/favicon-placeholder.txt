@@ -1,0 +1,3 @@
+<!-- Favicon placeholder: 48x48 PNG -->
+<!-- Replace with actual favicon.png -->
+Create a 48x48 PNG image for favicon
