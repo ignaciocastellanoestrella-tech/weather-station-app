@@ -2,6 +2,7 @@
   "expo": {
     "name": "Estación Meteorológica",
     "slug": "weather-station-icabra64",
+    "owner": "nashes890s-organization",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -33,6 +34,9 @@
       "eas": {
         "projectId": "9b0acd0f-4186-41fd-9fff-35582dd0c953"
       }
+    },
+    "cli": {
+      "appVersionSource": "remote"
     }
   }
 }
